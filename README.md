@@ -29,19 +29,19 @@ A single board computer known as Raspberry Pi is what we use as the interface be
 ____
 
 ## **Block Diagram** :
-![Block Diagram](\images\BlockDiagram.JPG)
+![Block Diagram](/images/BlockDiagram.JPG)
 _______
 ## **Screenshots** :
 
 **DASHBOARD**
-![Dashboard](\images\dashboard.png)
+![Dashboard](/images/dashboard.png)
 
 **DATABASE**
-![Database](\images\database1.png)
-![Database](\images\database2.png)
+![Database](/images/database1.png)
+![Database](/images/database2.png)
 
 **WEATHER UPDATE**
-![Weather](\images\weather.png)
+![Weather](/images/weather.png)
 
 _______
 
